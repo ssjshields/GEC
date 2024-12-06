@@ -25,7 +25,7 @@ This fix will not work if the theme name mismatches the folder name you created.
 
 The folder/zip/mod management name is not relevant to the actual theme name.
 
-This "patch" is a collection of files that GEC looks for in order to function, essentially tricking the application into working again.
+This is a collection of files that GEC looks for in order to function, essentially tricking the application into working again.
 
 &nbsp;
 
