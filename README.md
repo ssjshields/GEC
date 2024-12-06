@@ -13,7 +13,7 @@ Archive for Gilan's Encounter Counter. All rights reserved.
 &nbsp;
 
 # Custom Theme Patch Installation
-1. Create a folder in `PokeMMO\data\themes` with the same exact name as the `name=` line in the custom theme's `info.xml`
+1. Create a folder in `PokeMMO\data\themes` with the same name as the `name=` line in the custom theme's `info.xml`
 2. Extract the contents of the `GEC.Custom.Theme.Patch.zip` into the newly created folder
 
 &nbsp;
@@ -25,7 +25,7 @@ This fix will not work if the theme name mismatches the folder name you created.
 
 The folder/zip/mod management name is not relevant to the actual theme name.
 
-This 'patch' is a collection of files that GEC looks for in order to function, essentially tricking the application into working again.
+This "patch" is a collection of files that GEC looks for in order to function, essentially tricking the application into working again.
 
 &nbsp;
 
