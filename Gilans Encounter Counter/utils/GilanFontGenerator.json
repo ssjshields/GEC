@@ -1,0 +1,10 @@
+{
+  "jrePath": "jre",
+  "classPath": [
+    "GilanFontGenerator.jar"
+  ],
+  "mainClass": "com.gilangdx.fonter.desktop.DesktopLauncher",
+  "useZgcIfSupportedOs": false,
+  "vmArgs": [
+  ]
+}
