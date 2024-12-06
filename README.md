@@ -1,5 +1,7 @@
 Archive for Gilan's Encounter Counter. All rights reserved.
 
+[Download](https://github.com/ssjshields/GEC/archive/refs/heads/main.zip)
+
 # Requirements
 - Windows 8/10/11 64-bit
 - [Latest Python Release](https://www.python.org/downloads/)
@@ -9,7 +11,6 @@ Archive for Gilan's Encounter Counter. All rights reserved.
 &nbsp;
 
 # Installation
-[Download](https://github.com/ssjshields/GEC/archive/refs/heads/main.zip)
 1. Extract `Gilans Encounter Counter` into `PokeMMO\data\mods`
 2. Launch `PokeMMO\data\mods\Gilans Encounter Counter\GEC\GEC.exe`
 
