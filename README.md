@@ -4,7 +4,7 @@ Archive for Gilan's Encounter Counter. All rights reserved.
 
 # Requirements
 - Custom strings must have properly formatted headers
-- Custom themes require an additional workaround/fix
+- Custom themes require an additional patch, see release notes
 
 # Video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/tILufld4j-w/0.jpg)](http://www.youtube.com/watch?v=tILufld4j-w "GEC Beta Release")
